@@ -35,14 +35,14 @@ class PlayerJoinEvent extends PlayerEvent{
 
 	public function __construct(Player $player, $joinMessage){
 		$this->player = $player;
-		$this->joinMessage = $joinMessage;
+		$this->joinMessage = "";
 	}
 
 	/**
 	 * @param string|TextContainer $joinMessage
 	 */
 	public function setJoinMessage($joinMessage){
-		$this->joinMessage = $joinMessage;
+		$this->joinMessage = "";
 	}
 
 	/**
