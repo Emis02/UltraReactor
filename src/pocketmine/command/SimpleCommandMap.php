@@ -60,7 +60,6 @@ use pocketmine\command\defaults\TimingsCommand;
 use pocketmine\command\defaults\TitleCommand;
 use pocketmine\command\defaults\TransferServerCommand;
 use pocketmine\command\defaults\VanillaCommand;
-use pocketmine\command\defaults\VersionCommand;
 use pocketmine\command\defaults\WhitelistCommand;
 use pocketmine\event\TranslationContainer;
 use pocketmine\Server;
@@ -82,7 +81,6 @@ class SimpleCommandMap implements CommandMap{
 	}
 
 	private function setDefaultCommands(){
-		$this->register("pocketmine", new VersionCommand("version"));
 		$this->register("pocketmine", new PluginsCommand("plugins"));
 		$this->register("pocketmine", new SeedCommand("seed"));
 		$this->register("pocketmine", new HelpCommand("help"));
