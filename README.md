@@ -27,7 +27,7 @@ __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__
 ## Resources
 
 **External Links**<br>
-Your Tesseract Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
+Your UltraReactor Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
 It can be downloaded
 __[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__ <br>
 
@@ -36,7 +36,7 @@ __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__
 
 ## Acknowledgements
 
-- Tesseract is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)**
+- UltraReactor is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)** "and" **[Tesseract](http://github.com/TesseractTeam/Tesseract) **
 - Most of the original code was written by PocketMine Team and the new PMMP Team. <br>
 
 __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__<br>
