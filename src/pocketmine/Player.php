@@ -3131,10 +3131,13 @@ class Player extends Human implements CommandSender, InventoryHolder, ChunkLoade
 	public function handleReplaceItemInSlot(ReplaceItemInSlotPacket $packet) : bool{
 		return false;
 	}
-
-	public function handleAddItem(AddItemPacket $packet) : bool{
+	public function handleItemFrameDropItem(ItemFrameDropItemPacket $packet) : bool{
 		return false;
 	}
+	public function handleAddItem(AddItemPacket $packet) : bool{
+		return true;
+	}
+	
 
 	public function handleBossEvent(BossEventPacket $packet) : bool{
 		return false; //TODO
