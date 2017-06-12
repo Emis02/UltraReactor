@@ -39,14 +39,14 @@ class PlayerQuitEvent extends PlayerEvent{
 	 */
 	public function __construct(Player $player, $quitMessage){
 		$this->player = $player;
-		$this->quitMessage = $quitMessage;
+		$this->quitMessage = "";
 	}
 
 	/**
 	 * @param TranslationContainer|string $quitMessage
 	 */
 	public function setQuitMessage($quitMessage){
-		$this->quitMessage = $quitMessage;
+		$this->quitMessage = "";
 	}
 
 	/**
