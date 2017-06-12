@@ -1,19 +1,11 @@
-![Tesseract](http://i.imgur.com/1ga0ATy.jpg)
-## Tesseract Introduction
+## UltraReactor
 -------------
-**Tesseract is the advanced server software based on the original Pocketmine-MP and the new PMMP <br>
-Tesseract supports packet and event debug system (for plugin developers) <br>
+**UltraReactor is the advanced server software based on the original Pocketmine-MP and the new PMMP and Tesseract <br>
 
 ## Notice
 
-**Tesseract is supported to Minecraft:PE 1.1.x (PE & Win10)** <br>
+**UltraReactor is supported to Minecraft:PE 1.1.x (PE & Win10)** <br>
 **Report any issues and we will try to fix them for you.**  <br>
-
-## Builds
-__Travis-CI Build:__<br>
- [![Travis-CI](https://travis-ci.org/TesseractTeam/Tesseract.svg?branch=master)](https://travis-ci.org/TesseractTeam/Tesseract)<br>
- __CircleCI Build__<br>
-[![CircleCI](https://circleci.com/gh/circleci/mongofinil.svg?&style=shield&circle-token=8678c9589c2e09b659783b4d7a65365fa982127e/)](https://circleci.com/gh/TesseractTeam/Tesseract)
 
 ## Quick Links (Instead of scrolling, click these!)
 
