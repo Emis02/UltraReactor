@@ -36,7 +36,7 @@ __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__
 
 ## Acknowledgements
 
-- UltraReactor is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)** "and" **[Tesseract](http://github.com/TesseractTeam/Tesseract) **
+- UltraReactor is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/) [Tesseract](http://github.com/TesseractTeam/Tesseract) **
 - Most of the original code was written by PocketMine Team and the new PMMP Team. <br>
 
 __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__<br>
