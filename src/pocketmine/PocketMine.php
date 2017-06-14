@@ -73,9 +73,9 @@ namespace pocketmine {
 	use pocketmine\wizard\SetupWizard;
 	use raklib\RakLib;
 
-	const VERSION = "0.2v-beta";
+	const VERSION = "0.3V-Beta";
 	const API_VERSION = "3.0.0-ALPHA6";
-	const CODENAME = "Private";
+	const CODENAME = "Private-Fork";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
